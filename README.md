@@ -4,22 +4,22 @@ Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de progra
 ### :space_invader: Technologies
 
 <p>
-    <a href="https://dotnet.microsoft.com/">
-        <img alt="C#" width="32em" height="32em" src="assets/csharp.svg">
-    </a>
-    <a href="https://www.oracle.com/java/technologies/">
+
+        <img alt="C#" width="32em" height="32em" src="assets/css3.svg">
+
+
         <img alt="Java" width="32em" height="32em" src="assets/java.svg">
-    </a>
-    <img alt="C" width="32em" height="32em" src="assets/c.svg">
-    <a href="https://www.typescriptlang.org/">
+
+        <img alt="C" width="32em" height="32em" src="assets/c.svg">
+
         <img alt="TypeScript" width="32em" height="32em" src="assets/typescript.svg">
-    </a>
-    <a href="https://reactjs.org/">
+
+
         <img alt="React" width="32em" height="32em" src="assets/react.svg">    
-    </a>
-    <a href="https://vuejs.org/">
+
+
         <img alt="Vue" width="32em" height="32em" src="assets/vue.svg">
-    </a>
+
 </p>
 
 ### :coffee: Wanna chat?
