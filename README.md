@@ -14,14 +14,12 @@ Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de progra
         <img alt="ShellScript" width="32em" height="32em" src="assets/shell.svg">
     </a>
     <a href="#">
-        <img alt="Python" width="32em" height="32em" src="assets/python.svg">
+        <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
     </a>
     <a href="#">
         <img alt="CSS" width="32em" height="32em" src="assets/html.svg">    
     </a>
-    <a href="#">
-        <img alt="Vue" width="32em" height="32em" src="assets/css3.svg">
-    </a>
+
 </p>
 
 ### :coffee: Wanna chat?
