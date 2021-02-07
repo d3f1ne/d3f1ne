@@ -17,7 +17,10 @@ Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de progra
         <img alt="Python" width="32em" height="32em" src="assets/1200px-Python-logo-notext.svg.svg">
     </a>
     <a href="#">
-        <img alt="CSS" width="32em" height="32em" src="assets/html.svg">    
+        <img alt="Html" width="32em" height="32em" src="assets/html.svg">    
+    </a>
+        <a href="#">
+        <img alt="CSS" width="32em" height="32em" src="assets/css3.svg">    
     </a>
 
 </p>
