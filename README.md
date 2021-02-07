@@ -10,9 +10,7 @@ Eu me chamo Daniel, Atualmente tenho 17 anos e eu amo programaçao and hacking :
     <a href="https://www.oracle.com/java/technologies/">
         <img alt="Java" width="32em" height="32em" src="assets/java.svg">
     </a>
-    <a href="https://www.javascript.com/">
-        <img alt="JavaScript" width="32em" height="32em" src="assets/javascript.svg">
-    </a>
+    <img alt="C" width="32em" height="32em" src="assets/c.svg">
     <a href="https://www.typescriptlang.org/">
         <img alt="TypeScript" width="32em" height="32em" src="assets/typescript.svg">
     </a>
