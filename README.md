@@ -25,7 +25,7 @@ Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de progra
 
 </p>
 
-### :coffee: Wanna chat?
+### :coffee: Contato?
 
 <p>
     <a href="https://t.me/kanuic">
