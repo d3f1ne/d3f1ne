@@ -19,8 +19,8 @@ Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de progra
     <a href="#">
         <img alt="Html" width="32em" height="32em" src="assets/html.svg">    
     </a>
-        <a href="#">
-        <img alt="CSS" width="32em" height="32em" src="assets/css3.svg">    
+    <a href="#">
+        <img alt="CSS" width="32em" height="32em" src="assets/ccs3.svg">    
     </a>
 
 </p>
