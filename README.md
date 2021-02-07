@@ -29,7 +29,7 @@ Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de progra
 
 <p>
     <a href="https://t.me/kanuic">
-        <img alt="Twitch" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=kanuic"/>
+        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=kanuic"/>
     </a>
 </p>
 
