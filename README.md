@@ -45,6 +45,6 @@ I'm Jaime, I'm 15 years old and I love programming, math and physics.
 <hr>
 
 <p align="center">
-    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=jaimeadf&theme=material-palenight&show_icons=true">
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimeadf&hide=html&layout=compact&theme=material-palenight">
+    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=Kanui-C&theme=material-palenight&show_icons=true">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanui-C&hide=html&layout=compact&theme=material-palenight">
 </p>
