@@ -1,5 +1,7 @@
 # Seja Bem-Vindo ao meu perfil! :milky_way:
 Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de programaçao e pentest!
+FOLLOW-ME
+![](https://cdn140.picsart.com/298850570164201.jpg?type=webp&to=min&r=640)
 <br>
 ![](https://komarev.com/ghpvc/?username=Kanui-C&style=flat-square)
 ### :space_invader: Technologies
