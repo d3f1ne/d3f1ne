@@ -45,4 +45,4 @@ FOLLOW-ME
     <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanui-C&hide=html&layout=compact&theme=material-palenight">
 </p>
 
-<img src="https://cdn140.picsart.com/298850570164201.jpg?type=webp&to=min&r=300" alt="kawai" styles="    margin-left: auto;margin-right: auto;">
+
