@@ -3,7 +3,9 @@ Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de progra
 FOLLOW-ME
 
 <br>
+
 ![](https://komarev.com/ghpvc/?username=Kanui-C&style=flat-square)
+
 ### :space_invader: Technologies
 
 <p>
