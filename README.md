@@ -1,7 +1,7 @@
 # Seja Bem-Vindo ao meu perfil! :milky_way:
 Ola eu me chamo Daniel, Atualmente tenho 17 anos e eu sou um estudande de programaçao e pentest!
 FOLLOW-ME
-![](https://cdn140.picsart.com/298850570164201.jpg?type=webp&to=min&r=300)
+
 <br>
 ![](https://komarev.com/ghpvc/?username=Kanui-C&style=flat-square)
 ### :space_invader: Technologies
@@ -42,3 +42,4 @@ FOLLOW-ME
     <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=Kanui-C&theme=material-palenight&show_icons=true">
     <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanui-C&hide=html&layout=compact&theme=material-palenight">
 </p>
+![](https://cdn140.picsart.com/298850570164201.jpg?type=webp&to=min&r=300)
