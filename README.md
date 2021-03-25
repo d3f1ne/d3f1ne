@@ -28,10 +28,13 @@ FOLLOW-ME
         <img alt="CSS" width="32em" height="32em" src="assets/ccs3.svg">    
     </a>
     <a href="#">
-        <img alt="CSS" width="32em" height="32em" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Autoit-icon.png">    
+        <img alt="autoit" width="32em" height="32em" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Autoit-icon.png">    
     </a>
     <a href="#">
-        <img alt="CSS" width="32em" height="32em" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">    
+        <img alt="mysql" width="32em" height="32em" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">    
+    </a>
+        <a href="#">
+        <img alt="c++" width="32em" height="32em" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">    
     </a>
 </p>
 
