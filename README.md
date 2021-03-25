@@ -27,7 +27,9 @@ FOLLOW-ME
     <a href="#">
         <img alt="CSS" width="32em" height="32em" src="assets/ccs3.svg">    
     </a>
-
+    <a href="#">
+        <img alt="CSS" width="32em" height="32em" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Autoit-icon.png">    
+    </a>
 </p>
 
 ### :coffee: Contato?
