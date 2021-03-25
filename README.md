@@ -30,6 +30,9 @@ FOLLOW-ME
     <a href="#">
         <img alt="CSS" width="32em" height="32em" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Autoit-icon.png">    
     </a>
+    <a href="#">
+        <img alt="CSS" width="32em" height="32em" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">    
+    </a>
 </p>
 
 ### :coffee: Contato?
