@@ -49,8 +49,8 @@ FOLLOW-ME <3
 <hr>
 
 <p align="center">
-    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=KvN0X00&theme=gruvbox&show_icons=true">
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KvN0X00&hide=html&layout=compact&theme=gruvbox">
+    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=KnC0X00&theme=gruvbox&show_icons=true">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnC0X00&hide=html&layout=compact&theme=gruvbox">
 </p>
 
 
