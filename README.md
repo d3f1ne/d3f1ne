@@ -1,6 +1,6 @@
 # Seja Bem-Vindo ao meu perfil! :milky_way:
 
-FOLLOW-ME <3
+Apenas um iniciante
 
 <br>
 
