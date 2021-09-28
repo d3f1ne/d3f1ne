@@ -4,7 +4,7 @@ Apenas um iniciante
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Kanui-C&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Defragi686&style=flat-square)
 
 ### :space_invader: Technologies
 
@@ -49,8 +49,8 @@ Apenas um iniciante
 <hr>
 
 <p align="center">
-    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=KnC0X00&theme=gruvbox&show_icons=true">
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnC0X00&hide=html&layout=compact&theme=gruvbox">
+    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=Defragi686&theme=gruvbox&show_icons=true">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defragi686&hide=html&layout=compact&theme=gruvbox">
 </p>
 
 
