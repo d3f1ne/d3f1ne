@@ -49,8 +49,8 @@ Apenas um iniciante
 <hr>
 
 <p align="center">
-    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=Defragi686&theme=gruvbox&show_icons=true">
-    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defragi686&hide=html&layout=compact&theme=gruvbox">
+    <img alt="Jaime's GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=Defragi686&theme=tokyonight&show_icons=true">
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defragi686&hide=html&layout=compact&theme=tokyonight">
 </p>
 
 
