@@ -1,6 +1,5 @@
 # Seja Bem-Vindo ao meu perfil! :milky_way:
 
-Apenas um iniciante
 
 <br>
 
