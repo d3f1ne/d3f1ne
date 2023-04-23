@@ -1,4 +1,4 @@
-# Seja Bem-Vindo ao meu perfil! :milky_way:
+# Welcome to my profile! :milky_way:
 <br>
 
 ### :space_invader: Technologies
