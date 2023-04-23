@@ -36,8 +36,8 @@
 ### :coffee: Contact
 
 <p>
-    <a href="https://t.me/">
-        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=kanuic"/>
+    <a href="https://t.me/D3F1NE">
+        <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=D3F1NE"/>
     </a>
 </p>
 
