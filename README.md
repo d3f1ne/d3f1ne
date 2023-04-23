@@ -33,7 +33,7 @@
     </a>
 </p>
 
-### :coffee: Contato OFF?
+### :coffee: Contact
 
 <p>
     <a href="https://t.me/">
