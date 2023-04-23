@@ -38,10 +38,10 @@ Apenas um iniciante
     </a>
 </p>
 
-### :coffee: Contato?
+### :coffee: Contato OFF?
 
 <p>
-    <a href="https://t.me/kanuic">
+    <a href="https://t.me/">
         <img alt="Telegram" src="https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=white&color=%239146FF&label=&message=kanuic"/>
     </a>
 </p>
