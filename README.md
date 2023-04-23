@@ -3,8 +3,6 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=d3f1ne&style=flat-square)
-
 ### :space_invader: Technologies
 
 <p>
